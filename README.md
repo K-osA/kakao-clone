@@ -1,3 +1,3 @@
 # Kakao Clone
 
-HTML, CSS
+HTML, CSS practice.
